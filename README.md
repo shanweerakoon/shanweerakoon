@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanweerakoon
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP,JS..
+- 👀 I’m interested in App Development
+- 🌱 I’m currently learning kotlin,python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
